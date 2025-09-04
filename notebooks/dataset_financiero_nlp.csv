@@ -1,0 +1,101 @@
+Fecha,Precio,Volumen,Comentario,EstadoDolar,ActivoRef,Tendencia
+2022-01-01,101.29342830602246,1648,Se espera un crecimiento sostenido en los activos.,fuerte,bonos,baja
+2022-01-02,101.3168997036801,1317,Se anticipa una caída en los activos financieros.,debil,petróleo,sube
+2022-01-03,102.91227677988148,4748,Predomina el pesimismo en los mercados.,debil,petróleo,baja
+2022-01-04,106.25833649269754,4296,Se anticipa una caída en los activos financieros.,fuerte,bonos,sube
+2022-01-05,106.09002974325085,4890,El panorama económico es alentador.,fuerte,bonos,baja
+2022-01-06,105.92175582935249,2257,Las condiciones se mantienen sin alteraciones significativas.,debil,petróleo,baja
+2022-01-07,109.38018146036728,1683,Los analistas proyectan una subida en los precios.,debil,bonos,sube
+2022-01-08,111.2150509186731,1663,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-01-09,110.5761021468032,2998,Predomina el pesimismo en los mercados.,debil,petróleo,baja
+2022-01-10,111.96122223397512,4898,Los inversores muestran preocupación por la situación actual.,debil,bonos,baja
+2022-01-11,111.3343868483502,4445,Los precios no muestran una tendencia clara.,debil,petróleo,baja
+2022-01-12,110.70292734120969,4743,El mercado refleja un optimismo generalizado.,debil,oro,sube
+2022-01-13,111.48685188434176,2631,Se espera un crecimiento sostenido en los activos.,fuerte,petróleo,sube
+2022-01-14,107.96029139502616,2495,Se espera un crecimiento sostenido en los activos.,fuerte,petróleo,baja
+2022-01-15,104.81045573000009,4304,Los inversores muestran preocupación por la situación actual.,debil,petróleo,baja
+2022-01-16,103.98588067151815,4763,Predomina el pesimismo en los mercados.,debil,petróleo,baja
+2022-01-17,102.2602184308493,2136,Los precios no muestran una tendencia clara.,debil,oro,sube
+2022-01-18,103.18871309603985,2853,El panorama económico es alentador.,fuerte,petróleo,sube
+2022-01-19,101.67266494499742,2520,Los analistas proyectan una subida en los precios.,debil,petróleo,baja
+2022-01-20,99.14805754232684,3489,Se anticipa una caída en los activos financieros.,debil,bonos,baja
+2022-01-21,102.37935508016994,1563,Predomina el pesimismo en los mercados.,debil,petróleo,baja
+2022-01-22,102.22780247919688,2291,Los inversores muestran confianza en el mercado.,debil,bonos,sube
+2022-01-23,102.66285888857273,4581,El mercado se mantiene estable sin grandes cambios.,debil,oro,sube
+2022-01-24,100.11336251614581,4878,Predomina el pesimismo en los mercados.,debil,oro,sube
+2022-01-25,99.32459706709545,4457,El comportamiento de los activos es moderado.,fuerte,oro,baja
+2022-01-26,99.84644224651518,4458,Las condiciones se mantienen sin alteraciones significativas.,debil,oro,sube
+2022-01-27,97.84445509167057,4184,El mercado refleja un optimismo generalizado.,debil,bonos,sube
+2022-01-28,98.89585112836191,2636,El mercado refleja un optimismo generalizado.,fuerte,petróleo,sube
+2022-01-29,97.9945737485243,4696,El comportamiento de los activos es moderado.,fuerte,oro,baja
+2022-01-30,97.71118624893775,3999,Los inversores muestran confianza en el mercado.,fuerte,petróleo,sube
+2022-01-31,96.80777302447896,4152,Los analistas advierten sobre posibles pérdidas.,fuerte,bonos,baja
+2022-02-01,100.81232939349684,1698,No se observan movimientos relevantes en el mercado.,debil,bonos,sube
+2022-02-02,101.08533494402097,3160,El mercado se mantiene estable sin grandes cambios.,fuerte,bonos,sube
+2022-02-03,99.26991308610917,1001,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-02-04,101.21500291031555,1641,Las condiciones se mantienen sin alteraciones significativas.,fuerte,petróleo,sube
+2022-02-05,99.0733156103735,3267,Los analistas proyectan una subida en los precios.,fuerte,petróleo,baja
+2022-02-06,99.79104280038301,2589,Las condiciones se mantienen sin alteraciones significativas.,fuerte,petróleo,sube
+2022-02-07,96.17170255262346,1854,Predomina el pesimismo en los mercados.,debil,bonos,baja
+2022-02-08,93.81533045482661,2759,Los analistas proyectan una subida en los precios.,debil,oro,sube
+2022-02-09,94.50905292656485,4296,El panorama económico es alentador.,fuerte,bonos,sube
+2022-02-10,96.28598608655567,3432,El mercado refleja un optimismo generalizado.,debil,bonos,sube
+2022-02-11,96.9287226489356,4474,El mercado se mantiene estable sin grandes cambios.,debil,petróleo,sube
+2022-02-12,96.99742608415913,2661,El mercado refleja un optimismo generalizado.,debil,bonos,sube
+2022-02-13,96.69521869298055,2153,Se anticipa una caída en los activos financieros.,fuerte,petróleo,baja
+2022-02-14,94.03817471224569,2076,Predomina el pesimismo en los mercados.,debil,oro,sube
+2022-02-15,92.89848629545628,2707,Se espera un crecimiento sostenido en los activos.,debil,petróleo,baja
+2022-02-16,92.2772087535367,3777,El mercado se mantiene estable sin grandes cambios.,fuerte,oro,baja
+2022-02-17,94.69145320597454,2695,Las condiciones se mantienen sin alteraciones significativas.,debil,petróleo,sube
+2022-02-18,95.67868978511146,2733,No se observan movimientos relevantes en el mercado.,fuerte,bonos,sube
+2022-02-19,92.452609474386,2439,Los inversores muestran confianza en el mercado.,fuerte,bonos,sube
+2022-02-20,93.40077741317558,3294,Los precios no muestran una tendencia clara.,debil,oro,sube
+2022-02-21,92.93061285234295,1835,El mercado refleja un optimismo generalizado.,debil,oro,sube
+2022-02-22,91.87676885173103,4510,El panorama económico es alentador.,debil,oro,sube
+2022-02-23,93.40012142941276,1202,Predomina el pesimismo en los mercados.,fuerte,petróleo,baja
+2022-02-24,95.76212047440467,4255,Los analistas proyectan una subida en los precios.,fuerte,petróleo,sube
+2022-02-25,97.92468071263707,1122,Los inversores muestran confianza en el mercado.,debil,oro,sube
+2022-02-26,96.5462456661918,1400,Los analistas advierten sobre posibles pérdidas.,debil,bonos,baja
+2022-02-27,96.22782091448936,1766,El panorama económico es alentador.,fuerte,petróleo,baja
+2022-02-28,97.19034777729648,1293,El comportamiento de los activos es moderado.,debil,petróleo,sube
+2022-03-01,99.44143803154121,3327,El panorama económico es alentador.,fuerte,petróleo,sube
+2022-03-02,98.78308955585062,4908,El panorama económico es alentador.,fuerte,oro,baja
+2022-03-03,98.71177160252299,3931,Se espera un crecimiento sostenido en los activos.,debil,oro,sube
+2022-03-04,96.79910165451093,4681,Se anticipa una caída en los activos financieros.,debil,oro,sube
+2022-03-05,94.7066884063496,1197,No se observan movimientos relevantes en el mercado.,debil,oro,sube
+2022-03-06,96.63174005113798,4029,El mercado se mantiene estable sin grandes cambios.,fuerte,oro,sube
+2022-03-07,99.64422010827964,2930,Los analistas advierten sobre posibles pérdidas.,debil,bonos,baja
+2022-03-08,99.80019986511897,4582,Las condiciones se mantienen sin alteraciones significativas.,debil,bonos,sube
+2022-03-09,102.10726566090301,3799,Los inversores muestran confianza en el mercado.,debil,oro,sube
+2022-03-10,103.13053771099828,3191,Se espera un crecimiento sostenido en los activos.,fuerte,petróleo,sube
+2022-03-11,102.14029820178803,1608,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-03-12,103.16308941280487,4272,El mercado refleja un optimismo generalizado.,fuerte,bonos,sube
+2022-03-13,106.5391625457368,2147,El mercado refleja un optimismo generalizado.,fuerte,bonos,sube
+2022-03-14,106.7675104675169,1186,No se observan movimientos relevantes en el mercado.,fuerte,petróleo,sube
+2022-03-15,110.1967977791449,4397,El panorama económico es alentador.,fuerte,bonos,sube
+2022-03-16,105.25730757096542,3511,Los precios no muestran una tendencia clara.,fuerte,oro,baja
+2022-03-17,107.20111257971587,4420,Los inversores muestran confianza en el mercado.,debil,petróleo,sube
+2022-03-18,107.6752067161922,2794,Los inversores muestran preocupación por la situación actual.,debil,oro,baja
+2022-03-19,107.37719201526048,1659,El mercado atraviesa un momento de incertidumbre.,fuerte,oro,baja
+2022-03-20,107.86071356833148,3811,El mercado se mantiene estable sin grandes cambios.,fuerte,petróleo,sube
+2022-03-21,104.18557573912969,4002,Los precios no muestran una tendencia clara.,debil,oro,sube
+2022-03-22,104.04623196345467,2955,Las condiciones se mantienen sin alteraciones significativas.,fuerte,bonos,baja
+2022-03-23,105.06045710647817,3450,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-03-24,108.31624519596119,2369,Los analistas proyectan una subida en los precios.,fuerte,petróleo,sube
+2022-03-25,107.5797047594139,2986,Se anticipa una caída en los activos financieros.,fuerte,petróleo,baja
+2022-03-26,106.26271755362752,2534,Los analistas proyectan una subida en los precios.,debil,petróleo,baja
+2022-03-27,105.55920346645846,1146,Los inversores muestran confianza en el mercado.,fuerte,oro,sube
+2022-03-28,107.6900077018626,4219,El panorama económico es alentador.,debil,petróleo,sube
+2022-03-29,108.64750992118196,3911,Los inversores muestran preocupación por la situación actual.,debil,petróleo,baja
+2022-03-30,107.8879895136479,2734,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-03-31,109.2145243798746,2843,Las condiciones se mantienen sin alteraciones significativas.,fuerte,bonos,sube
+2022-04-01,109.70867947857069,1488,El mercado refleja un optimismo generalizado.,fuerte,oro,sube
+2022-04-02,111.94596945963646,3976,No se observan movimientos relevantes en el mercado.,debil,petróleo,sube
+2022-04-03,110.84186327188176,2959,El comportamiento de los activos es moderado.,fuerte,petróleo,baja
+2022-04-04,110.48653897868623,2663,El mercado se mantiene estable sin grandes cambios.,fuerte,oro,baja
+2022-04-05,110.00232267242191,3598,Se anticipa una caída en los activos financieros.,debil,bonos,baja
+2022-04-06,107.37529277615766,3385,Predomina el pesimismo en los mercados.,fuerte,petróleo,baja
+2022-04-07,108.26753333028682,3919,Los inversores muestran confianza en el mercado.,fuerte,petróleo,sube
+2022-04-08,109.0896438746466,1640,Los precios no muestran una tendencia clara.,fuerte,petróleo,sube
+2022-04-09,109.39987078793152,2802,El mercado se mantiene estable sin grandes cambios.,fuerte,oro,sube
+2022-04-10,109.23069652118123,3520,Se espera un crecimiento sostenido en los activos.,debil,petróleo,baja
